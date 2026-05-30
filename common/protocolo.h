@@ -1,0 +1,19 @@
+#ifndef PROTOCOLO_H
+#define PROTOCOLO_H
+
+#define INS_ESTUDIANTE 1
+#define BUS_ESTUDIANTE 2
+
+#define INS_PROFESOR 3
+#define BUS_PROFESOR 4
+
+#define INS_MATERIA 5
+#define BUS_MATERIA 6
+
+#define INS_MATRICULA 7
+#define BUS_MATRICULA 8
+
+#define RESPUESTA_OK 100
+#define RESPUESTA_ERROR 101
+
+#endif
